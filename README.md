@@ -12,7 +12,7 @@
 ## How to use
 * Make sure your Ms.Office 2007 application is closed
 * Run the “run.bat” file first to back up the MSO.dll file.
-* If it appears “Renaming successful.” just continue by pressing the “Extract” button
+* If it appears “Penggantian nama berhasil.” just continue by pressing the “Extract” button
 * If everything is complete and in order, open Ms.Office 2007, the “Microsoft Office Activation Wizard” pop up will appear.
 * Select the section “I want to activate the software by telephone”
 * In Step 1, select the country “Indonesia”
